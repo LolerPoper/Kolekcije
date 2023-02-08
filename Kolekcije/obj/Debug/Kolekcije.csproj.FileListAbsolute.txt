@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\Kolekcije\bin\Debug\Kolekcije.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\Kolekcije\bin\Debug\Kolekcije.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\Kolekcije\bin\Debug\Kolekcije.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\Kolekcije\obj\Debug\Kolekcije.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Kolekcije\obj\Debug\Kolekcije.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Kolekcije\obj\Debug\Kolekcije.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Kolekcije\obj\Debug\Kolekcije.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\Kolekcije\obj\Debug\Kolekcije.pdb
